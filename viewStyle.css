@@ -1,0 +1,52 @@
+
+
+.img3{
+    width: 600px;
+    height: 540px;
+    margin-left: 100px;
+    margin-top: 80px;
+    position: absolute;
+}
+
+.d{
+    width: 600px;
+    height: 400px;
+    margin-left: 850px;
+    margin-top: 150px;
+    position: absolute;
+}
+span{
+    font-family: "calibri";
+}
+.sp1{
+   font-size: 50px;
+   text-transform: capitalize;
+   color: #3333ff;
+}
+
+.sp2{
+    font-size: 18px;
+}
+.sp3{
+    font-size: 30px;
+    color: #3333ff;
+}
+
+.button1{
+    width: 170px;
+    height: 70px;
+    background-color: #9999ff;
+    border: 1px solid blue;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.button2{
+    width: 150px;
+    height: 60px;
+    margin-left: 10px;
+    background-color: #ccccff;
+    border: 1px solid blue;
+    font-size: 25px;
+    border-radius: 50px;
+}

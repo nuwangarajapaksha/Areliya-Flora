@@ -1,0 +1,76 @@
+*{
+    font-family: "calibri";
+    margin: 0px;
+    padding: 0px;
+}
+
+.registation{
+    width: 32%;
+    height: 720px;
+    background-color: aqua;
+    position: absolute;
+}
+
+.registation form {
+    margin-top: 20%;
+    margin-left:12%;
+    margin-right: 16%;
+    font-size: 20px;
+}
+
+.registation form input{
+    width: 250PX;
+    height: 30px;
+    position: relative;
+    float: right;
+    font-size: 20px;
+    border-bottom: 2px solid #999999;
+    cursor: initial;   
+}
+
+.button{
+    margin-top: 40px;
+    background-color: red;
+}
+
+
+
+
+.tablearea{
+    width: 68%;
+    height: 720px;
+    background-color: #999999;
+    margin-left: 32%;
+    position: absolute;
+}
+
+.tablearea table{
+    margin-top: 10%;
+    margin-left: 3%;
+    font-size: 20px;
+    border-collapse: collapse;
+}
+
+.tablearea table tr td{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+}
+
+.tablearea table tr td input{
+    height: 100%;
+    font-size: 18px;
+}
+
+.tablearea table tr:nth-child(even) {
+              background-color: #dddddd;
+            }
+.t1 {
+    width: 60px;
+}
+.t2 {
+    width: 150px;
+}
+.t3 {
+    width: 75px;
+}
